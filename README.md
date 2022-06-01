@@ -5,4 +5,8 @@ Olá, sejam bem-vindos aos meus estudos de programação. Aqui você encontrará
 ## Conteúdos
 
 - **Introdução ao Git e GitHub**
-    1. Comandos de Git
+    1. Comandos de 
+
+- **Programação e Pensamento Computacional**
+    1. Introdução
+
