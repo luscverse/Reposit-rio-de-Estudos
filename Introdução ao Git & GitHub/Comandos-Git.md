@@ -1,4 +1,4 @@
-# Atalhos de Git
+# Comandos de Git
 
 ## Comandos Básicos
 
