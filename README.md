@@ -9,4 +9,5 @@ Olá, sejam bem-vindos aos meus estudos de programação. Aqui você encontrará
 
 - **Programação e Pensamento Computacional**
     1. Introdução
+    2. Lógica
 

@@ -14,13 +14,26 @@
   - Passos: identificar ou coletas dados, agregar os dados, funcionalidade.
   
 
-*Reconhecimento de padrões:*
+*Reconhecimento de padrões:* modelo base, estrutura invariente e repetição.
+  - Como ocorre o reconhecimento? Através da similaridade e características comuns.
+  - Por que determinar padrões? Generalizar, com objetivo de obter resoluções para problemas diferentes; Classificação dos dados.
 
 
-*Abstração:*
+*Abstração:* Abstrair é observar, um ou mais elementos, avaliando características e propriedades em separado. Já a abstração é o processo intelectual de isolamento de um objeto da realidade. Por fim, generalizar é tornar geral, mais amplo, extensão.
+  - Como classificar os dados? Perceber características, filtrar pontos essenciais e, então, generalizar em detrimento do detalhe.
 
 
-*Design de algoritmos:*
+*Design de algoritmos:* O algoritmo é um "trabalhador" eficiente e rápido para solução de problemas, porém, ele não opera sozinho - para isso, ele precisa de instruções detalhadas. Assim, ele é capaz de processar os dados.
+  - Processo de resolução de problemas **step by step** utilizando instruções (Como: o que precisa ser feito? Qual a ordemd e execução das tarefas?)
+  - Desenvolvimento de programa: análise do problema, estudo e definição dos dados de entrada e saída, algoritmo e codificação.
+  - Como construir algoritmo? Compreensão do problema, definição dos dados de entrada, definição do processamento, definição dos dados de saída, utilização de um método de construção e teste/diagnóstico.
+
+#
+
+  **Construção de algoritmos:**
+  - Narrativa: Não atribui conceitos novos na estruturação, usa linguagem natural e pode ser ambígua
+  - Fluxograma: Estrutura gráfica com símbolos pré-definidos que apontam o tipo de ação realizada
+  - Pseudocódigo: Regras definidas, passo a passo a serem seguidos (Portugol)
 
 **Processo Contínuo:**
 
