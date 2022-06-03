@@ -7,3 +7,13 @@
 **Lógica de programação -** É a organização e planjeamento das instruções, assertivas em um algoritmo, a fim de viabilizar a implementação de um programa.
 
 ## Técnicas da Lógica de Programação
+
+- Modelo tradicional OU Técnica linear: não tem vínculo, estrutura hierárquica, programação de computadores
+  - Execução sequenciada, recursos limitados, única dimensão.
+
+- Técnica Estruturada: Organização, disposição e ordem dos elementos essenciais que compõem um corpo (concreto ou abstrato). Acrescenta complexidade.
+  - Objetivo: Escrita, entendimento, validação e manutenção.
+
+- Técnica modular: Definimos partes independentes que são controladas por um conjunto de regras e cada parte segue regras indenpendentes.
+  - Dados -> Processo de transformação -> Dados de saída
+  - Metas: simplificação, decomposição do problema e verificação por módulos.
