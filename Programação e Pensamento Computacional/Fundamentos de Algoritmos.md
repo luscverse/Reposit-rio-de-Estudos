@@ -40,5 +40,26 @@ Para solucionar problemas, comumente usaremos cálculos matemáticos e, para con
  ## Conceitos
 
  - Entrada: Os dados são importados de algum lugar;
- - Processamento: Levados ao computador para processamento;
+ - Processamento: Ato de levar algo ao computador para que aconteça o processamento dos dados;
  - Saída: São impressos de alguma forma.
+  
+
+ ## Estrutura condicional
+ 
+ Dado o estado de uma pessoa ou coisa, há uma condição para isso acontecer. O condicional expressa condição ou suposição ou implica nisso. Dada uma condição que foi satisfeita, executo uma operação. Se não foi satisfeita, há uma exceção.
+
+   - Tipos: 
+     - Simples: Apenas verifica se a condição foi satisfeita. Se (condição) então (instrução para condição verdadeira) fim_se;
+     - Composta: Busca verificar se a condição foi satisfeita e se há exceções. Se (condição) então (instruções para condição verdadeira) Se não (instruções para condições falsas) fim_se.;
+     - Encadeada: Sucessão de estruturar condicionais. Se (condição1) então (instruções para condição verdadeira) Se não (condição2) então (instrução para condição 2 verdadeira e condição 1 falsa) Se não (instrução para condição 1 e 2 falsas) fim_se.
+
+  - Operadores Relacionais:
+
+![1__sS64sGl7FOjH5lecaXICA](https://user-images.githubusercontent.com/99259323/171872129-fe2e2d94-c47e-422c-be05-3a641eaf76a1.png)
+
+  - Operadoes Lógicos: Usados quando precisamos de uma resposta simples, como V ou F.
+    - and: condição verdadeira. Todas devem ser satisfeitas.
+    - or: Se apenas uma condição for verdadeira, é verdadeiro.
+    - not: operador de negação. Inversão do resultado lógico.
+
+![resumo-dos-operadores-logicos](https://user-images.githubusercontent.com/99259323/171873884-cdce17e4-8305-4948-8610-05d1b39fb672.png)
