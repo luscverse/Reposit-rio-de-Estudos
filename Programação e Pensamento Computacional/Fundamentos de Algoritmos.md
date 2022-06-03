@@ -28,3 +28,17 @@ As **constantes** são diferentes das variáveis pois elas não são mutáveis, 
 
 - Ação: modifica estado do algoritmo.
 - Controle: vigia e controla estrutura dentro do algoritmo.
+
+## Instruções primitivas
+
+Para solucionar problemas, comumente usaremos cálculos matemáticos e, para construir esse cálculo, usaremos operadores - variáveis e constantes. Esses operadores podem ser também tanto unários quanto binários.
+
+![Operadores](https://user-images.githubusercontent.com/99259323/171850195-00d1284d-032b-4a84-922c-60830023aff6.png)
+
+ **Definição formal:** Instruções são linguagem de palavras-chave (vocabulário) de uma determinada programação que tem por finalidade comandar um computador que irá tratar os dados.
+
+ ## Conceitos
+
+ - Entrada: Os dados são importados de algum lugar;
+ - Processamento: Levados ao computador para processamento;
+ - Saída: São impressos de alguma forma.
