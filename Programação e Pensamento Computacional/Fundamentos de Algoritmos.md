@@ -63,3 +63,41 @@ Para solucionar problemas, comumente usaremos cálculos matemáticos e, para con
     - not: operador de negação. Inversão do resultado lógico.
 
 ![resumo-dos-operadores-logicos](https://user-images.githubusercontent.com/99259323/171873884-cdce17e4-8305-4948-8610-05d1b39fb672.png)
+
+## Estruturas de repetição
+
+Uma estrutura de repetição irá repetir um programa a partir de certos parâmetros dentro dessa estrutura de repetição. 
+
+Existe, para isso, uma condição de parada. Pode partir de um número de repetições pré-fixadas ou de uma condição a ser satisfeita.
+
+**Vantagens de usar:** Redução de linhas, compreensão facilitada, redução de erros.
+  - Ex: "Enquanto...faça", "Repita...até" e "Para...de...até...faça".
+
+## Vetores e Matrizes
+
+Vetores são caracterizados por variáveis dimensionadas com tamanho pré-fixado. Pode ser encarado container ou matriz unidirecional.
+
+A matriz, por sua vez, é uma tabela organizada em linhas e colunas no formato m x n, onde m representa o número de linhas (horizontal) e n o numéro de colunas (vertical).
+
+Para navegar nas matrizes, precisaremos de índices.
+- Ex: Vetor = []
+
+## Funções
+
+Podem ser conhecidas também como método, bloco, subalgoritmo, subprograma, sub-rotina. A função implica que um elemento A está conectado a um elemento B. Podem ser entendidas, formalmente, como blocos de instruções que realizam tarefas específicas. São identificados por nomes e parâmetros. A função altera o estado do programa.
+
+**Vantagens:** Modularização do programa, código mais simples e reutilização do código.
+
+Elementos ligados a função:
+- Definição
+- Nome
+- Invocação
+- Variável local
+
+## Instruções de entrada/saída
+
+Entrada - Consiste na inserção e recebimento de dados do mundo real por meio de ação de alguma interface, seja teclado, mouse, arquivos, entre outros.
+
+Saída - Consiste na impressão dos dados do mundo abstrato, digital por meio de ação de alguma interface. Os formatos podem variar desde simples arquivos binários até complexas querys de banco de dados. Existem dois tipos:
+  - Saída do programa: Condicional ou Inducional.
+  - Saíde de interrupação: Definida pelos periféricos.
