@@ -20,3 +20,6 @@ Olá, sejam bem-vindos aos meus estudos de programação. Aqui você encontrará
 - **Posicionando elementos com Flexbox em CSS**
 - **Introdução ao JavaScript**
 - **Operadores e Sintaxe**
+  
+- **Variáveis e Tipos**
+- 1. Variáveis
