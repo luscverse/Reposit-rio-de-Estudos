@@ -22,4 +22,5 @@ Olá, sejam bem-vindos aos meus estudos de programação. Aqui você encontrará
 - **Operadores e Sintaxe**
   
 - **Variáveis e Tipos**
-- 1. Variáveis
+- 1. Variáveis e Constantes
+- 2. Tipos

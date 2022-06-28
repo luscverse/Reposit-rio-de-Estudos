@@ -10,3 +10,11 @@
 ## Atribuição de Valores
 
 ![Atribuicao-de-Valores](https://user-images.githubusercontent.com/99259323/174791699-78e17279-262b-4aef-af75-dad3794ae3cb.png)
+
+# Constantes
+
+As constantes são declaradas em SNAKE_UPPER_CASE, tem escopo de bloco e não fazem hoisting.
+
+# Var, let e const
+
+![var-let-const](https://user-images.githubusercontent.com/99259323/176157229-4671e1d5-6885-42cd-a5bd-b5a90d344dd3.png)
