@@ -1,12 +1,10 @@
 # Tipos
 
-## Estruturas de dados
+**Estruturas de dados:**
+- Javascript é uma linguagem de tipagem dinâmica, ou seja, antes de declarar um valor, você não especifica o tipo dele.
+- A **tipagem dinâmica** permite que conforme o seu programa vá rodando e você modifique suas variáveis, é possível mudar o tipo dela.
 
-Javascript é uma linguagem de tipagem dinâmica, ou seja, antes de declarar um valor, você não especifica o tipo dele.
-
-A **tipagem dinâmica** permite que conforme o seu programa vá rodando e você modifique suas variáveis, é possível mudar o tipo dela.
-
-### Tipos de dados
+## Tipos de dados
 
 ![Tipos de dados](https://user-images.githubusercontent.com/99259323/176167380-6ef9d151-6dc9-4548-834f-0adcbe82db0d.png)
 
@@ -82,5 +80,76 @@ validation = 3 >= 2
 //true
 ```
 
-## Arrays
+## Arrays (ou Vetores)
 
+- Listas iteráveis de elementos
+- Utiliza propriedades como index e lenght:
+
+![Arrays](https://user-images.githubusercontent.com/99259323/176434373-11955f4f-fa80-465d-9f1a-3c6a4647a4da.png)
+
+Exemplo:
+
+```
+let array = []
+//undefined
+
+//adicionar item no array (ao final)
+array.push(3)
+//retorna 1 (tamanho da lista)
+
+array.push(2)
+//retorna 2
+
+array
+//retorna '(2) [3,2]'
+
+//tirar número o último elemento do array
+array.pop()
+//retorna 2
+
+array
+//retorna '[3]'
+
+array.push(2)
+//retorna 2
+
+array.push(5)
+//retorna 3
+
+//Quero tirar o primeiro elemento
+array.shift()
+//retorna 3
+
+array
+//retorna '(2) [2,5]'
+
+//Quero adicionar elemento no começo da lista
+array.unshift(1)
+//retorna 3
+
+array
+//retorna '(3) [1,2,5]'
+
+for(let i = 0; i <array.length; i++){
+    console.log(array[i])
+}
+//retorna 1
+//retorna 2
+//retorna 5
+
+//Quero checar se existe algum elemento
+array.includes(3)
+//retorna valor booleano 'false'
+
+//Quero checar se todas as minhas entradas são do número 5
+array.every(item => item === 5)
+//retorna false
+
+//Quero checar se um dos elementos é 5
+array.some(item => item === 5)
+//retorna true
+
+//Quero reverter meu array
+array.reverse()
+//retorna '(3) [5,2,1]'
+```
