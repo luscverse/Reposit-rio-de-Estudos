@@ -26,3 +26,61 @@ let lastName = 'Luiz';
 
 let fullName = `Nome Completo: ${firstName} ${lastName}`;
 ```
+
+## Numbers
+
+- Números podem ser inteiros ou decimais
+- Usualmente declarados sem aspas
+- O Javascript possui uma biblioteca chamada Math
+- Trabalhar com porcentagem exige que você trabalhe com a concatenação de números e strings
+
+Exemplo:
+
+```
+let num = 100
+
+//adição
+num + 3
+
+//subtração
+num - 3
+
+//multiplicação
+num * 3
+
+//divisão
+num / 3
+
+//verificar se é par
+num % 2
+```
+
+## Booleans
+
+- Um valor booleano ou é verdadeiro (true) ou falso (false)
+- Com eles, eu posso validar condicionais
+- Sempre que eu usar exclamação (!) antes do valor, o boolean vai me retornar o contrário
+
+Exemplo:
+
+```
+let validation = 3 === 0
+validation
+//false
+
+let validation = 3 === 3
+validation
+//true
+
+validation = 3 > 4
+//false
+
+validantion = 3 > 2
+//true
+
+validation = 3 >= 2
+//true
+```
+
+## Arrays
+
