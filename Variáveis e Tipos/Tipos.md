@@ -153,3 +153,89 @@ array.some(item => item === 5)
 array.reverse()
 //retorna '(3) [5,2,1]'
 ```
+
+## Objetos
+
+- Geralmente seguem a seguinte estrutura: Chave a Valor.
+
+```
+let person = {
+    name: 'John',
+    age: 20
+}; 
+```
+
+- Name e age são **Keys** John e 20 são **Values**.
+- Entre uma key e outra, utilizamos a vírgula como separador e não o ponto e vírgula.
+
+Exemplos:
+
+```
+let obj = {}
+//retorna undefined
+
+typeof obj
+//retorna "object"
+
+obj.name = "Julia"
+//retorna "Julia"
+
+obj
+/* retorna {name: "Julia"}
+    name: "Julia"
+    __proto__: Object */
+
+obj.age = 20
+//retorna 20
+
+obj
+/* retorna {name: "Julia", age: 20}
+    age: 20
+    name: "Julia"
+    __proto__: Object */
+
+Object.values(obj)
+//retorna (2) ["Julia", 20]
+
+Object.keys(obj)
+/* retorna (2) ["name", "age"]
+    0: name
+    1: age
+    length: 2
+    __proto__: Array(0) */
+
+let person = {
+    name: "Julia",
+    age: 20,
+    adrees: "Rua 2"
+    }
+//retorna undefined
+
+person
+/* retorna {name: "Julia, age: 20, adress: "Rua 2"}
+    adress: "Rua 2"
+    age: 20
+    name: "Julia"
+    __proto__:Object */
+
+//para declarar
+person.name
+//retorna "Julia"
+
+//para retornar, geralmente com o intuito de declarar uma variável dentro do objeto
+person["name"]
+//retorna "Julia
+```
+
+## Empety, null e Undefined
+
+- São valores que sempre retornam como diferentes de true em caráter booleano.
+- Quando o valor é **empty**, quer dizer que você declarou a variável. 
+  - Se for um number, você declarou 0;
+  - Se for string, você apenas usou aspas sem valor declarado;
+  - Se for array, você apenas inicializou com colchetes;
+  - Se for objeto, você apenas inicializou com chaves.
+
+- Quando o valor é **null**, você propositalmente deseja que este valor não exista. Não foi inicializado, você quer que o valor seja nulo.
+
+- Quando o valor **undefined**, você se quer chegou a declarar alguma coisa, esse valor nem existe.
