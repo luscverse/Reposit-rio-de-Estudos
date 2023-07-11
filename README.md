@@ -1,6 +1,6 @@
 # Repositorio-de-Estudos 📘
 
-Olá, sejam bem-vindos aos meus estudos de programação. Aqui você encontrará uma lista de conteúdos com base nos cursos que tenho realizado no **Bootcamp Santander**.
+Olá, sejam bem-vindos aos meus estudos de programação. Aqui você encontrará uma lista de conteúdos com base nos cursos que tenho realizado.
 
 ## Conteúdos
 
@@ -13,14 +13,9 @@ Olá, sejam bem-vindos aos meus estudos de programação. Aqui você encontrará
     3. Fundamentos de Algoritmos
     4. Linguagem de programação
 
-- **Introdução ao HTML e CSS**
-    1. Site de Teste - HTML 
-    2. Site de Teste - CSS
 
-- **Posicionando elementos com Flexbox em CSS**
-- **Introdução ao JavaScript**
 - **Operadores e Sintaxe**
   
 - **Variáveis e Tipos**
-- 1. Variáveis e Constantes
-- 2. Tipos
+    1. Variáveis e Constantes
+    2. Tipos
