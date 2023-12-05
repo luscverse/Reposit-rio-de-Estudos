@@ -51,12 +51,12 @@
 1. git merge *"Nome da ramificação que você deseja mergir com o ramo principal"*
 
 ### Passo a passo do merge
-git:(master) git branch main
-git:(master) git checkout main
-git:(main) git pull origin master
-git:(main) git checkout master
-git:(master) git pull
+- git:(master) git branch main
+- git:(master) git checkout main
+- git:(main) git pull origin master
+- git:(main) git checkout master
+- git:(master) git pull
 
-git pull --rebase
-git push --set-upstream origin main
-git push -f origin main
+- git pull --rebase
+- git push --set-upstream origin main
+- git push -f origin main
